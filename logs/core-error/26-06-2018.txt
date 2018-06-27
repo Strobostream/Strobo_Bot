@@ -1,0 +1,18 @@
+[06-26-2018 @ 11:28:04.998 GMT] [loadScript()@ScriptManager.java:46] Failed to load module: .\scripts\.\custom\color.js: JavaScript Error: le littéral de l'expression rationnelle n'a pas de limite (color.js#44)
+
+[06-26-2018 @ 11:28:05.001 GMT] [loadScript()@ScriptManager.java:49] Terminating PhantomBot due to Bad JavaScript File
+
+[06-26-2018 @ 11:28:31.873 GMT] [loadScript()@ScriptManager.java:46] Failed to load module: .\scripts\.\custom\color.js: JavaScript Error: le littéral de l'expression rationnelle n'a pas de limite (color.js#44)
+
+[06-26-2018 @ 11:28:31.875 GMT] [loadScript()@ScriptManager.java:49] Terminating PhantomBot due to Bad JavaScript File
+
+[06-26-2018 @ 11:34:17.977 GMT] [checkPortAvailabity()@PhantomBot.java:354] Port is already in use: 25000
+
+[06-26-2018 @ 11:34:17.978 GMT] [checkPortAvailabity()@PhantomBot.java:355] Ensure that another copy of PhantomBot is not running.
+
+[06-26-2018 @ 11:34:17.979 GMT] [checkPortAvailabity()@PhantomBot.java:356] If another copy is not running, try to change baseport in ./config/botlogin.txt
+
+[06-26-2018 @ 11:34:17.979 GMT] [checkPortAvailabity()@PhantomBot.java:357] PhantomBot will now exit.
+
+[06-26-2018 @ 11:34:39.580 GMT] [loadScript()@ScriptManager.java:46] Failed to load module: .\scripts\.\custom\color.js: JavaScript Error: il manque ')' après une liste d'arguments (color.js#14)
+

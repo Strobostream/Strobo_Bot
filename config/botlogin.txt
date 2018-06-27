@@ -1,0 +1,19 @@
+#PhantomBot Configuration File
+#Tue Jun 26 13:28:02 CEST 2018
+apioauth=oauth\:dyanfbapg7irtbhp3vinegngnp7g8s
+baseport=25000
+channel=strobocop
+msglimit30=19.0
+musicenable=true
+oauth=oauth\:wx8adcl5zeog6xs419qkf8027tzna0
+owner=strobocop
+panelpassword=Y0l0Str0b1
+paneluser=strobocop
+usehttps=false
+user=strobo_bot
+webauth=lX6ReMYbEE1fAaLIVTlU8vSsTeDEH8
+webauthro=OslxtWqK8NszlupcYCgOe3V4K75PS2
+webenable=true
+whisperlimit60=60.0
+ytauth=csuXLZB7vW5ZVNOvEYqtI9q9humX7W
+ytauthro=wHtB080dYuxqXyRWjDJnK0PmB0VCM3

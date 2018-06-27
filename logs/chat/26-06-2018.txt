@@ -1,0 +1,81 @@
+[06-26-2018 @ 11:30:34.210 GMT] strobo_bot: @Strobocop, Usage: !couleur + une des couleurs suivantes :  rouge, orange, jaune, vert, cyan, bleu, violet, rose.
+[06-26-2018 @ 11:30:34.219 GMT] strobocop: !couleur
+[06-26-2018 @ 11:30:41.822 GMT] strobo_bot: @Strobocop, Usage: !couleur + une des couleurs suivantes :  rouge, orange, jaune, vert, cyan, bleu, violet, rose.
+[06-26-2018 @ 11:30:41.826 GMT] strobocop: !couleur sdfd asdfsd
+[06-26-2018 @ 11:30:46.907 GMT] strobocop: !couleur bleu
+[06-26-2018 @ 11:32:06.553 GMT] strobo_bot: @Strobocop, Usage: !couleur + une des couleurs suivantes :  rouge, orange, jaune, vert, cyan, bleu, violet, rose.
+[06-26-2018 @ 11:32:06.555 GMT] strobocop: !couleur
+[06-26-2018 @ 11:32:11.119 GMT] strobocop: !couleur bleu
+[06-26-2018 @ 11:32:56.006 GMT] strobocop: "couleur bleu
+[06-26-2018 @ 11:33:00.996 GMT] strobo_bot: @Strobocop, Usage: !couleur + une des couleurs suivantes :  rouge, orange, jaune, vert, cyan, bleu, violet, rose.
+[06-26-2018 @ 11:33:00.998 GMT] strobocop: !couleur bleu
+[06-26-2018 @ 11:35:11.518 GMT] strobo_bot: @Strobocop, Usage: !couleur + une des couleurs suivantes :  rouge, orange, jaune, vert, cyan, bleu, violet, rose.
+[06-26-2018 @ 11:35:11.520 GMT] strobocop: !couleur bleu
+[06-26-2018 @ 11:35:35.238 GMT] strobo_bot: @Strobocop, Usage: !couleur + une des couleurs suivantes :  rouge, orange, jaune, vert, cyan, bleu, violet, rose.
+[06-26-2018 @ 11:35:35.239 GMT] strobocop: !couleur rouge
+[06-26-2018 @ 11:41:40.003 GMT] strobocop: !color
+[06-26-2018 @ 11:41:45.326 GMT] strobo_bot: @Strobocop, Usage: !couleur + une des couleurs suivantes :  rouge, orange, jaune, vert, cyan, bleu, violet, rose.
+[06-26-2018 @ 11:41:45.328 GMT] strobocop: !couleur
+[06-26-2018 @ 11:41:50.360 GMT] strobo_bot: @Strobocop, Usage: !couleur + une des couleurs suivantes :  rouge, orange, jaune, vert, cyan, bleu, violet, rose.
+[06-26-2018 @ 11:41:50.361 GMT] strobocop: !couleur dfsd asdfsd
+[06-26-2018 @ 11:42:01.184 GMT] strobo_bot: -1
+[06-26-2018 @ 11:42:01.185 GMT] strobo_bot: strobocop a changé la couleur en rouge
+[06-26-2018 @ 11:42:01.186 GMT] strobocop: !couleur rouge
+[06-26-2018 @ 11:42:20.016 GMT] strobo_bot: -1
+[06-26-2018 @ 11:42:20.017 GMT] strobo_bot: strobocop a changé la couleur en vert
+[06-26-2018 @ 11:42:20.018 GMT] strobocop: !couleur vert
+[06-26-2018 @ 11:42:26.132 GMT] strobo_bot: @Strobocop, Usage: !couleur + une des couleurs suivantes :  rouge, orange, jaune, vert, cyan, bleu, violet, rose.
+[06-26-2018 @ 11:42:26.133 GMT] strobocop: !couleur roug
+[06-26-2018 @ 11:42:32.660 GMT] strobo_bot: -1
+[06-26-2018 @ 11:42:32.661 GMT] strobo_bot: strobocop a changé la couleur en violet
+[06-26-2018 @ 11:42:32.662 GMT] strobocop: !couleur violet
+[06-26-2018 @ 11:44:47.070 GMT] strobo_bot: @Strobocop,  you currently have 0 points and you have been in the chat for  11 minutes.
+[06-26-2018 @ 11:44:47.072 GMT] strobocop: !points
+[06-26-2018 @ 11:44:47.319 GMT] streamelements: @Strobocop, Strobocop has 0 lumens and is rank 1/2 on the leaderboard.
+[06-26-2018 @ 11:45:08.162 GMT] strobo_bot: A rainstorm's incoming! strobo_bot just tossed a total of 1000 points in the air!
+[06-26-2018 @ 11:45:23.446 GMT] strobo_bot: @Strobocop,  you currently have 357 points and you have been in the chat for  11 minutes.
+[06-26-2018 @ 11:45:23.448 GMT] strobocop: !points
+[06-26-2018 @ 11:45:23.579 GMT] streamelements: @Strobocop, Strobocop has 0 lumens and is rank 1/2 on the leaderboard.
+[06-26-2018 @ 11:45:33.185 GMT] strobo_bot: -1
+[06-26-2018 @ 11:45:33.186 GMT] strobo_bot: strobocop a changé la couleur en rouge
+[06-26-2018 @ 11:45:33.187 GMT] strobocop: !couleur rouge
+[06-26-2018 @ 11:45:40.447 GMT] strobo_bot: @Strobocop,  you currently have 357 points and you have been in the chat for  12 minutes.
+[06-26-2018 @ 11:45:40.447 GMT] strobocop: !points
+[06-26-2018 @ 11:45:40.577 GMT] streamelements: @Strobocop, Strobocop has 0 lumens and is rank 1/2 on the leaderboard.
+[06-26-2018 @ 11:46:23.025 GMT] strobo_bot: @Strobocop,  you currently have 357 points and you have been in the chat for  12 minutes.
+[06-26-2018 @ 11:46:23.026 GMT] strobocop: !points
+[06-26-2018 @ 11:46:35.097 GMT] strobo_bot: @Strobocop, Usage: !couleur + une des couleurs suivantes :  rouge, orange, jaune, vert, cyan, bleu, violet, rose.
+[06-26-2018 @ 11:46:35.099 GMT] strobocop: !couleur asfasd asf
+[06-26-2018 @ 11:46:39.393 GMT] strobo_bot: @Strobocop,  you currently have 557 points and you have been in the chat for  13 minutes.
+[06-26-2018 @ 11:46:39.394 GMT] strobocop: !points
+[06-26-2018 @ 11:47:46.263 GMT] strobo_bot: @Strobocop,  you currently have 557 points and you have been in the chat for  14 minutes.
+[06-26-2018 @ 11:47:46.264 GMT] strobocop: !points
+[06-26-2018 @ 11:47:53.951 GMT] strobo_bot: -1
+[06-26-2018 @ 11:47:53.952 GMT] strobo_bot: strobocop a changé la couleur en rouge
+[06-26-2018 @ 11:47:53.955 GMT] strobocop: !couleur rouge
+[06-26-2018 @ 11:47:58.824 GMT] strobo_bot: @Strobocop,  you currently have 357 points and you have been in the chat for  14 minutes.
+[06-26-2018 @ 11:47:58.825 GMT] strobocop: !points
+[06-26-2018 @ 11:48:07.062 GMT] strobo_bot: -1
+[06-26-2018 @ 11:48:07.064 GMT] strobo_bot: strobocop a changé la couleur en vert
+[06-26-2018 @ 11:48:07.066 GMT] strobocop: !couleur vert
+[06-26-2018 @ 11:48:11.558 GMT] strobo_bot: @Strobocop,  you currently have 157 points and you have been in the chat for  14 minutes.
+[06-26-2018 @ 11:48:11.559 GMT] strobocop: !points
+[06-26-2018 @ 11:48:17.524 GMT] strobocop: !couleur jaune
+[06-26-2018 @ 11:49:20.686 GMT] strobocop: !couleur
+[06-26-2018 @ 11:49:25.347 GMT] strobo_bot: @Strobocop,  you currently have 157 points and you have been in the chat for  15 minutes.
+[06-26-2018 @ 11:49:25.348 GMT] strobocop: !points
+[06-26-2018 @ 11:49:34.777 GMT] strobocop: !couleur sfasd sdfsdf
+[06-26-2018 @ 11:49:58.307 GMT] strobo_bot: A rainstorm's incoming! strobo_bot just tossed a total of 200 points in the air!
+[06-26-2018 @ 11:50:09.428 GMT] strobo_bot: @Strobocop,  you currently have 189 points and you have been in the chat for  16 minutes.
+[06-26-2018 @ 11:50:09.429 GMT] strobocop: !points
+[06-26-2018 @ 11:50:27.660 GMT] strobo_bot: @Strobocop,  you currently have 389 points and you have been in the chat for  16 minutes.
+[06-26-2018 @ 11:50:27.661 GMT] strobocop: !points
+[06-26-2018 @ 11:50:34.047 GMT] strobo_bot: @Strobocop, Usage: !couleur + une des couleurs suivantes :  rouge, orange, jaune, vert, cyan, bleu, violet, rose.
+[06-26-2018 @ 11:50:34.050 GMT] strobocop: !couleur dsfs sdfsd
+[06-26-2018 @ 11:50:39.547 GMT] strobo_bot: @Strobocop,  you currently have 389 points and you have been in the chat for  17 minutes.
+[06-26-2018 @ 11:50:39.548 GMT] strobocop: !points
+[06-26-2018 @ 11:50:49.933 GMT] strobo_bot: -1
+[06-26-2018 @ 11:50:49.934 GMT] strobo_bot: strobocop a changé la couleur en vert
+[06-26-2018 @ 11:50:49.936 GMT] strobocop: !couleur vert
+[06-26-2018 @ 11:50:54.112 GMT] strobo_bot: @Strobocop,  you currently have 189 points and you have been in the chat for  17 minutes.
+[06-26-2018 @ 11:50:54.113 GMT] strobocop: !points

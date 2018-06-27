@@ -1,0 +1,4 @@
+[06-26-2018 @ 11:30:34.213 GMT] [init.js:300] (hook.call, command, ./custom/color.js) ReferenceError: "isMod" n'est pas défini
+[06-26-2018 @ 11:30:41.824 GMT] [init.js:300] (hook.call, command, ./custom/color.js) ReferenceError: "isMod" n'est pas défini
+[06-26-2018 @ 11:30:46.905 GMT] [init.js:300] (hook.call, command, ./custom/color.js) ReferenceError: "arg" n'est pas défini
+[06-26-2018 @ 11:32:11.116 GMT] [init.js:300] (hook.call, command, ./custom/color.js) ReferenceError: "arg" n'est pas défini

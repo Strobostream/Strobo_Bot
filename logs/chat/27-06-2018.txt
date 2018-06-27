@@ -1,0 +1,29 @@
+[06-27-2018 @ 10:19:41.858 GMT] strobocop: !couleur
+[06-27-2018 @ 10:19:42.556 GMT] strobo_bot: @Strobocop, Usatilisation: !couleur + une des couleurs suivantes : rouge, orange, jaune, vert, cyan, bleu, violet, rose.
+[06-27-2018 @ 10:20:12.063 GMT] strobocop: !tts salut
+[06-27-2018 @ 10:20:40.026 GMT] strobocop: !tts bonjour
+[06-27-2018 @ 10:20:50.515 GMT] strobocop: !tts bonjour
+[06-27-2018 @ 10:31:13.345 GMT] strobocop: !tts salut
+[06-27-2018 @ 10:32:42.540 GMT] strobocop: !speak salut
+[06-27-2018 @ 10:32:51.853 GMT] strobocop: !shout hello
+[06-27-2018 @ 10:33:33.021 GMT] strobocop: !tts salut
+[06-27-2018 @ 10:33:45.204 GMT] strobocop: !speak hello
+[06-27-2018 @ 10:34:58.683 GMT] strobocop: !tts hello
+[06-27-2018 @ 10:35:13.966 GMT] strobocop: !tts hello
+[06-27-2018 @ 10:36:29.053 GMT] strobocop: !tts hello
+[06-27-2018 @ 10:37:09.634 GMT] strobocop: !tts hello
+[06-27-2018 @ 10:38:03.669 GMT] strobocop: !ttscost
+[06-27-2018 @ 10:41:41.977 GMT] strobocop: !tts test
+[06-27-2018 @ 10:46:42.243 GMT] strobocop: !tts say
+[06-27-2018 @ 10:47:51.768 GMT] strobocop: !tts salut ca va bien ?
+[06-27-2018 @ 10:50:09.021 GMT] strobocop: !tts salut, comment ca va ?
+[06-27-2018 @ 10:50:21.189 GMT] strobocop: !tts salut comment ca va ?
+[06-27-2018 @ 10:55:33.090 GMT] strobocop: !tts salut
+[06-27-2018 @ 10:55:42.737 GMT] strobocop: !tts bonjour
+[06-27-2018 @ 10:55:57.782 GMT] strobocop: !tts salut
+[06-27-2018 @ 10:56:39.388 GMT] strobocop: !tts comment vas-tu ?
+[06-27-2018 @ 10:56:54.764 GMT] strobocop: !tts Vous n'êtes pas en ligne actuellement. Commencez un stream en direct ou lancez un test de streaming pour voir les données en direct.
+[06-27-2018 @ 10:58:03.823 GMT] strobocop: !couleur bleu
+[06-27-2018 @ 10:58:04.074 GMT] strobo_bot: strobocop a changé la couleur de fond en bleu
+[06-27-2018 @ 10:58:12.647 GMT] strobocop: !couleur ble
+[06-27-2018 @ 10:58:12.890 GMT] strobo_bot: @Strobocop, Usatilisation: !couleur + une des couleurs suivantes : rouge, orange, jaune, vert, cyan, bleu, violet, rose.

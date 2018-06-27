@@ -1,0 +1,36 @@
+[06-26-2018 @ 11:28:05.006 GMT] java.lang.NullPointerException
+	at tv.phantombot.PhantomBot.onExit(PhantomBot.java:1116)
+	at tv.phantombot.PhantomBot.lambda$init$0(PhantomBot.java:1073)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-26-2018 @ 11:28:31.881 GMT] java.lang.NullPointerException
+	at tv.phantombot.PhantomBot.onExit(PhantomBot.java:1116)
+	at tv.phantombot.PhantomBot.lambda$init$0(PhantomBot.java:1073)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-26-2018 @ 11:34:28.653 GMT] java.lang.NullPointerException
+	at tv.phantombot.PhantomBot.onExit(PhantomBot.java:1116)
+	at tv.phantombot.PhantomBot.lambda$init$0(PhantomBot.java:1073)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-26-2018 @ 11:34:39.589 GMT] java.lang.NullPointerException
+	at tv.phantombot.PhantomBot.onExit(PhantomBot.java:1116)
+	at tv.phantombot.PhantomBot.lambda$init$0(PhantomBot.java:1073)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-26-2018 @ 11:40:41.929 GMT] java.lang.NullPointerException
+	at tv.phantombot.PhantomBot.onExit(PhantomBot.java:1116)
+	at tv.phantombot.PhantomBot.lambda$init$0(PhantomBot.java:1073)
+	at java.lang.Thread.run(Unknown Source)
+
+
+[06-26-2018 @ 11:41:04.952 GMT] java.lang.NullPointerException
+	at tv.phantombot.PhantomBot.onExit(PhantomBot.java:1116)
+	at tv.phantombot.PhantomBot.lambda$init$0(PhantomBot.java:1073)
+	at java.lang.Thread.run(Unknown Source)
+
+
